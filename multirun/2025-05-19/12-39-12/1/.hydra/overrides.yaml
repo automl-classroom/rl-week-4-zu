@@ -1,3 +1,0 @@
-- agent.batch_size=32
-- agent.buffer_capacity=10000
-- train.num_frames=40000
